@@ -1,6 +1,6 @@
 ### Olá!! Sou o Kauê Brito 
 
-- 🌱 Estou fazedo faculdade de análise e desenvolvimento de sistemas.
+- 🌱 Estou cursando faculdade de análise e desenvolvimento de sistemas.
 - E também começando a estudar HTML E CSS ( Básico )  
 
 <div align="center">
@@ -16,7 +16,7 @@
   
   <div> 
   <a href="https://instagram.com/_britox7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-            badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:kaueribeiro125@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=whitehttps://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitehttps://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+ <a href = "mailto:kaueribeiro125@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </a>
   
  
