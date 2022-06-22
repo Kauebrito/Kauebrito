@@ -1,6 +1,6 @@
 ### Olá!! Sou o Kauê Brito 
 
-- 🌱 Estou cursando faculdade de análise e desenvolvimento de sistemas.
+- Atualmente estou cursando faculdade de análise e desenvolvimento de sistemas.
 - E também começando a estudar HTML E CSS ( Básico )  
 
 <div align="center">
